@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'Paul') {
-    	message.reply('Wassup motherfuckers!');
+    if (message.content === 'Marco') {
+    	message.reply('Tervist, poisikesed! Olen siin selleks, et teil pauk lahti imeda. Ärge kartke, onu Marco tahab ainult head.');
   	}
 });
 
